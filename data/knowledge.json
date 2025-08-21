@@ -1,0 +1,122 @@
+{
+  "DrE": {
+    "about": [
+      {
+        "question": "Who is Dr. Ekaette Joseph-Isang?",
+        "answer": "Dr. Ekaette Joseph-Isang (MD, MBA, MPH, CPHQ, CDIP, PAHM) is a physician, healthcare strategist, and transformation leader specializing in value-based care, Medicare risk adjustment, digital health, and provider enablement."
+      },
+      {
+        "question": "What are Dr. E\u2019s qualifications?",
+        "answer": "She holds an MD, an MBA, and an MPH, and is certified in Healthcare Quality (CPHQ), Clinical Documentation Improvement (CDIP), and is a Professional, Academy for Healthcare Management (PAHM)."
+      },
+      {
+        "question": "What services does Dr. E offer?",
+        "answer": "Healthcare consulting, management consulting, training, executive coaching, corporate training, public speaking, strategic planning, IT consulting, and career development mentorship."
+      },
+      {
+        "question": "Which domains does Dr. E cover?",
+        "answer": "Value-based care, population health, Medicare risk adjustment, HEOR, provider enablement, clinical documentation improvement, SDOH, digital health, automation and AI."
+      },
+      {
+        "question": "Does Dr. E provide mentorship?",
+        "answer": "Yes\u2014particularly for clinicians and international medical graduates transitioning to non-clinical healthcare roles."
+      },
+      {
+        "question": "Does Dr. E do public speaking?",
+        "answer": "Yes. Topics include healthcare transformation, risk adjustment, AI in healthcare, and provider enablement."
+      }
+    ]
+  },
+  "RiteBridge": {
+    "about": [
+      {
+        "question": "What is RiteBridge Consulting?",
+        "answer": "A healthcare consulting and workforce development company founded by Dr. E, focused on value-based care strategy, risk adjustment, and digital health enablement."
+      },
+      {
+        "question": "What is the A.C.T.I.O.N. Pathway\u2122?",
+        "answer": "RiteBridge\u2019s flagship training program guiding clinicians and IMGs into healthcare consulting, quality improvement, and risk adjustment roles."
+      },
+      {
+        "question": "How long is the A.C.T.I.O.N. Pathway\u2122?",
+        "answer": "Typically 8\u201310 weeks with live classes, mentorship, and practical projects."
+      },
+      {
+        "question": "What skills will I gain in A.C.T.I.O.N. Pathway\u2122?",
+        "answer": "Healthcare analytics, risk adjustment fundamentals, CDI, quality improvement, and consulting skills."
+      },
+      {
+        "question": "Does RiteBridge offer payment plans?",
+        "answer": "Yes. Installments and occasional scholarships/discounts may be available."
+      },
+      {
+        "question": "What outcomes can graduates expect?",
+        "answer": "Roles in risk adjustment, healthcare consulting, population health, and clinical documentation, with improved interview readiness and portfolios."
+      }
+    ]
+  },
+  "ChampionsCoachingAcademy": {
+    "about": [
+      {
+        "question": "What is Champions Coaching Academy?",
+        "answer": "An online training and mentorship platform helping professionals build remote-work and digital career skills."
+      },
+      {
+        "question": "What programs does Champions offer?",
+        "answer": "Virtual Assistant Training, Tech Medics for clinicians, Teach Naija for educators, and Remote Work Readiness bootcamps."
+      },
+      {
+        "question": "How are classes delivered?",
+        "answer": "Live online sessions with recordings, plus mentorship and community support."
+      },
+      {
+        "question": "Do I get a certificate?",
+        "answer": "Yes\u2014graduates receive certificates to validate their new skills."
+      },
+      {
+        "question": "Are there scholarships or discounts?",
+        "answer": "Occasionally\u2014especially for high-need applicants or group enrollments."
+      },
+      {
+        "question": "What are typical program durations?",
+        "answer": "Usually 6\u201310 weeks depending on the track."
+      }
+    ]
+  },
+  "General": {
+    "faqs": [
+      {
+        "question": "Can I study from outside the U.S.?",
+        "answer": "Yes. All programs are online and accessible globally."
+      },
+      {
+        "question": "When do cohorts start?",
+        "answer": "New cohorts typically start every 2\u20133 months; check the websites for current dates."
+      },
+      {
+        "question": "Are the programs beginner-friendly?",
+        "answer": "Yes. They include live instruction, mentorship, and practical projects."
+      },
+      {
+        "question": "What tech do I need?",
+        "answer": "A laptop/desktop, stable internet, and access to video conferencing tools."
+      },
+      {
+        "question": "Are refunds available?",
+        "answer": "Programs generally offer limited refund windows\u2014review each program\u2019s policy for specifics."
+      },
+      {
+        "question": "Can employers sponsor training?",
+        "answer": "Yes. Corporate packages are available."
+      },
+      {
+        "question": "Do you guarantee jobs?",
+        "answer": "No job guarantees, but you\u2019ll receive coaching, portfolio support, and networking opportunities."
+      },
+      {
+        "question": "Is medical advice provided?",
+        "answer": "No. Information is educational only; consult a licensed clinician for medical advice."
+      }
+    ]
+  }
+}
